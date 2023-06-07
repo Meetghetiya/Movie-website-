@@ -26,7 +26,7 @@ Movies are categorized into different genres or categories, making it easier for
 - #### Clone the repository to your local machine:
 
 ```bash
-  git clone https://github.com/your-username/movie-website.git
+  git clone https://github.com/Meetghetiya/Movie-website-using-django.git
 ```
 
 - #### Navigate to the project directory:
