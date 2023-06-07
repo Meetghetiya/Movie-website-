@@ -32,7 +32,7 @@ Movies are categorized into different genres or categories, making it easier for
 - #### Navigate to the project directory:
 
 ```bash
-  cd movie-website
+  cd Movie-website-django
 ```
 
 - #### Create a virtual environment (recommended) and activate it:
